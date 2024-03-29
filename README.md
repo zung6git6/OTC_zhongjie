@@ -1,10 +1,10 @@
 # OTC_zhongjie
 - La tâche à réaliser : token classification
-- Le corpus cible : Open-Orca/SlimOrca
-- Lien du corpus : https://huggingface.co/datasets/Open-Orca/SlimOrca
-- Types de prédiction : NER (reconnaissance d'entités nommées), classification de tokens selon lemme, UPOS ou encore dépendance syntaxique.
+- Le corpus cible : conll2003
+- Lien du corpus : https://huggingface.co/datasets/conll2003?row=0
+- Types de prédiction : NER (reconnaissance d'entités nommées) tagging, POS tagging, Chunk tagging, tokenisation de phrases et de tokens
 - Modèles servis :
-  - Jackalope 7B : https://huggingface.co/openaccess-ai-collective/jackalope-7b#jackalope-7b
-  - OpenOrca - Mistral - 7B - 8k - Slim Data! : https://huggingface.co/Open-Orca/Mistral-7B-SlimOrca
-- Ce corpus recueillit les messages transmis à ChatGPT de la part de l'humain et du système et les messages de retour de ChatGPT. Le corpus présente une structure de données sous fomre de listes de dictionnaires (python). Dans chaque liste, il y a trois dictionnaires. Chaque dictionnaire a 3 entrées, la première entrée indique l'expéditeur tels que "system", "human" et "gpt", la deuxième indique les messages d'expéditeurs et la dernière indique une indice de poids "weight". J'ai remarqué que les valeurs de "weight" sont toujours identiques pour chaque expéditeur, "null" pour "system", "0" pour "human" et "1" pour "gpt".
-- Ce corpus est en réalité un sous-ensemble tiré du corpus OpenOrca, qui recueillit les conversations de l'être humain avec GPT4. Différent du corpus d'origine OpenOcra, ce corpus a été traité par GPT-4 dans le but d'exclure les réponses incorrectes ou médiocres de GPT4, en s'appuyant sur les annotations humaines de la base de données FLAN. Ce traitement réduit la taille du corpus à environ 500,000 entrées.
+  - dslim/bert-base-NER
+  - dslim/bert-large-NER
+  - flair/ner-english
+- Ce corpus procède la classification de tokens en termes de tokenisation, de POS tagging, de chunk tagging et de NER tagging. Comme indiqué dans le nom, c'est un corpus construit en 2003. Il présente un tableau de 5 colonnes. La première colonne liste les ID de chaque phrase des textes. Chaque phrase, étant tokenisée en liste de tokens, occupe une ligne dans la deuxième colonne. Dans la troisième colonne, chaque ligne est une liste d'étiquettes de POS. Chaque POS est représenté par un chiffre unique au lieu de l'étiquette elle-même pour une meilleure visualisation. La convention de la correspondance des étiquettes avec leur chiffres est fournie dans la description du corpus. La quatrième colonne est aussi des listes d'étiquettes sous forme de chiffres. Cette fois-ci, il s'agit des étiquettes de chunk. La dernière colonne présente les listes des entitées nommées, toujours représentées par des chiffres avec la convention de la correspondance fournie dans la description du corpus.
