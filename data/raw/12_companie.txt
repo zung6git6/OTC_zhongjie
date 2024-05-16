@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <title>Google - Wikipedia</title>
 <script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-appearance-disabled vector-feature-appearance-pinned-clientpref-0 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie.split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":
-["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"5049a059-5a07-4535-bf7c-e703079079ee","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Google","wgTitle":"Google","wgCurRevisionId":1223339137,"wgRevisionId":1223339137,"wgArticleId":1092923,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using the Phonos extension","CS1 maint: multiple names: authors list","Articles with short description","Short description is different from Wikidata","Wikipedia pages semi-protected against vandalism","Wikipedia indefinitely move-protected pages","Use American English from July 2022","All Wikipedia articles written in American English","Use mdy dates from March 2024","Infobox network service provider ASN same as Wikidata",
+["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"5dd1126e-6718-4430-a4ca-c337c284367d","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Google","wgTitle":"Google","wgCurRevisionId":1223339137,"wgRevisionId":1223339137,"wgArticleId":1092923,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using the Phonos extension","CS1 maint: multiple names: authors list","Articles with short description","Short description is different from Wikidata","Wikipedia pages semi-protected against vandalism","Wikipedia indefinitely move-protected pages","Use American English from July 2022","All Wikipedia articles written in American English","Use mdy dates from March 2024","Infobox network service provider ASN same as Wikidata",
 "Pages including recorded pronunciations","Articles containing potentially dated statements from August 2015","All articles containing potentially dated statements","Articles containing potentially dated statements from 1998","Articles containing potentially dated statements from September 2020","Articles containing potentially dated statements from 2020","Articles containing potentially dated statements from March 2019","Articles containing potentially dated statements from 2007","Articles containing potentially dated statements from February 2009","Pages using Sister project links with hidden wikidata","Pages using Sister project links with default search","Articles with ISNI identifiers","Articles with VIAF identifiers","Articles with BIBSYS identifiers","Articles with BNF identifiers","Articles with BNFdata identifiers","Articles with CANTICN identifiers","Articles with GND identifiers","Articles with J9U identifiers","Articles with LCCN identifiers",
 "Articles with Libris identifiers","Articles with NKC identifiers","Articles with NLA identifiers","Articles with MoMA identifiers","Articles with TePapa identifiers","Articles with Trove identifiers","Articles with SUDOC identifiers","Google","1998 establishments in California","2004 initial public offerings","Alphabet Inc.","AI companies","American corporate subsidiaries","Cloud computing providers","Companies based in Mountain View, California","Companies in the PRISM network","Computer companies established in 1998","Computer companies of the United States","Computer hardware companies","Computer systems companies","Internet properties established in 1998","Mobile phone manufacturers","Multinational companies headquartered in the United States","Technology companies based in the San Francisco Bay Area","Technology companies established in 1998","University spin-offs","Virtual reality companies","Web portals","Web service providers","Webby Award winners"],"wgPageViewLanguage":"en",
 "wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Google","wgRelevantArticleId":1092923,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgNoticeProject":"wikipedia","wgCiteReferencePreviews":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":200000,"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q95",
@@ -3303,6 +3303,7 @@
 <li><a href="/wiki/Pixel_7a" title="Pixel 7a">7a</a></li>
 <li><a href="/wiki/Pixel_Fold" title="Pixel Fold">Fold</a></li>
 <li><a href="/wiki/Pixel_8" title="Pixel 8">8</a></li>
+<li><a href="/wiki/Pixel_8a" title="Pixel 8a">8a</a></li>
 <li><a href="/wiki/Comparison_of_Google_Pixel_smartphones" title="Comparison of Google Pixel smartphones">Comparison</a></li></ul></li>
 <li><i><a href="/wiki/List_of_Google_Play_edition_devices" title="List of Google Play edition devices">Play Edition</a></i></li>
 <li><i><a href="/wiki/Project_Ara" title="Project Ara">Project Ara</a></i></li></ul>
@@ -4013,51 +4014,51 @@
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1130092004"><div class="portal-bar noprint metadata noviewer portal-bar-bordered" role="navigation" aria-label="Portals"><span class="portal-bar-header"><a href="/wiki/Wikipedia:Contents/Portals" title="Wikipedia:Contents/Portals">Portals</a>:</span><ul class="portal-bar-content"><li class="portal-bar-item"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/19px-Industry5.svg.png" decoding="async" width="19" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/29px-Industry5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/38px-Industry5.svg.png 2x" data-file-width="512" data-file-height="512" /></span></span>&#160;<a href="/wiki/Portal:Companies" title="Portal:Companies">Companies</a></li><li class="portal-bar-item"><span typeof="mw:File"><a href="/wiki/File:Octicons-terminal.svg" class="mw-file-description"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/17px-Octicons-terminal.svg.png" decoding="async" width="17" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/25px-Octicons-terminal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/33px-Octicons-terminal.svg.png 2x" data-file-width="896" data-file-height="1024" /></a></span>&#160;<a href="/wiki/Portal:Computer_programming" title="Portal:Computer programming">Computer programming</a></li><li class="portal-bar-item"><span typeof="mw:File"><a href="/wiki/File:Crystal_Clear_app_linneighborhood.svg" class="mw-file-description"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/19px-Crystal_Clear_app_linneighborhood.svg.png" decoding="async" width="19" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/29px-Crystal_Clear_app_linneighborhood.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/38px-Crystal_Clear_app_linneighborhood.svg.png 2x" data-file-width="407" data-file-height="407" /></a></span>&#160;<a href="/wiki/Portal:Internet" title="Portal:Internet">Internet</a></li><li class="portal-bar-item"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/SF_From_Marin_Highlands3.jpg/21px-SF_From_Marin_Highlands3.jpg" decoding="async" width="21" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/SF_From_Marin_Highlands3.jpg/32px-SF_From_Marin_Highlands3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/SF_From_Marin_Highlands3.jpg/42px-SF_From_Marin_Highlands3.jpg 2x" data-file-width="2672" data-file-height="1885" /></span></span>&#160;<a href="/wiki/Portal:San_Francisco_Bay_Area" title="Portal:San Francisco Bay Area">San Francisco Bay Area</a></li><li class="portal-bar-item"><span typeof="mw:File"><a href="/wiki/File:Noun-technology.svg" class="mw-file-description"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Noun-technology.svg/19px-Noun-technology.svg.png" decoding="async" width="19" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Noun-technology.svg/30px-Noun-technology.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Noun-technology.svg/39px-Noun-technology.svg.png 2x" data-file-width="90" data-file-height="88" /></a></span>&#160;<a href="/wiki/Portal:Technology" title="Portal:Technology">Technology</a></li></ul></div>
 <!-- 
 NewPP limit report
-Parsed by mw‐web.eqiad.main‐65fb9cf775‐rnxjb
-Cached time: 20240514001111
+Parsed by mw1418
+Cached time: 20240514235755
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [vary‐revision‐sha1, show‐toc]
-CPU time usage: 4.858 seconds
-Real time usage: 5.578 seconds
+CPU time usage: 4.072 seconds
+Real time usage: 4.916 seconds
 Preprocessor visited node count: 28991/1000000
-Post‐expand include size: 1164037/2097152 bytes
+Post‐expand include size: 1164094/2097152 bytes
 Template argument size: 66724/2097152 bytes
 Highest expansion depth: 34/100
 Expensive parser function count: 64/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 1610767/5000000 bytes
-Lua time usage: 3.008/10.000 seconds
-Lua memory usage: 17667075/52428800 bytes
+Lua time usage: 2.527/10.000 seconds
+Lua memory usage: 17615019/52428800 bytes
 Lua Profile:
-    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::callParserFunction      560 ms       17.9%
-    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::gsub      380 ms       12.2%
-    ?                                                                300 ms        9.6%
-    dataWrapper <mw.lua:672>                                         200 ms        6.4%
-    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::expandTemplate      180 ms        5.8%
-    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::plain      160 ms        5.1%
-    <mw.lua:694>                                                     140 ms        4.5%
-    type                                                             120 ms        3.8%
-    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::find      100 ms        3.2%
-    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::match      100 ms        3.2%
-    [others]                                                         880 ms       28.2%
+    ?                                                                440 ms       17.3%
+    dataWrapper <mw.lua:672>                                         360 ms       14.2%
+    recursiveClone <mwInit.lua:41>                                   300 ms       11.8%
+    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::callParserFunction      240 ms        9.4%
+    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::gsub      160 ms        6.3%
+    <mw.lua:694>                                                     100 ms        3.9%
+    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::expandTemplate       80 ms        3.1%
+    type                                                              80 ms        3.1%
+    concat                                                            60 ms        2.4%
+    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::plain       60 ms        2.4%
+    [others]                                                         660 ms       26.0%
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 4581.335      1 -total
- 54.93% 2516.632      2 Template:Reflist
- 30.00% 1374.179    258 Template:Cite_web
- 13.33%  610.557    109 Template:Cite_news
-  9.59%  439.142      2 Template:Infobox
-  7.29%  334.140      1 Template:Infobox_company
-  2.81%  128.571      1 Template:Google_LLC
-  2.68%  122.618      1 Template:Infobox_network_service_provider
-  2.64%  121.023      1 Template:Short_description
-  2.58%  118.276      3 Template:Unbulleted_list
+100.00% 4030.739      1 -total
+ 54.82% 2209.821      2 Template:Reflist
+ 28.89% 1164.290    258 Template:Cite_web
+ 13.74%  553.754    109 Template:Cite_news
+  9.20%  370.657      2 Template:Infobox
+  7.03%  283.291      1 Template:Infobox_company
+  2.71%  109.248     16 Template:Navbox
+  2.69%  108.294      1 Template:Google_LLC
+  2.64%  106.440      1 Template:Short_description
+  2.59%  104.535      7 Template:Cite_magazine
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:1092923-0!canonical and timestamp 20240514001111 and revision id 1223339137. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1092923-0!canonical and timestamp 20240514235755 and revision id 1223339137. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
 <div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Google&amp;oldid=1223339137">https://en.wikipedia.org/w/index.php?title=Google&amp;oldid=1223339137</a>"</div></div>
@@ -4107,7 +4108,7 @@ additional terms may apply. By using this site, you agree to the <a href="//foun
 </li>
 	</ul>
 </div>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-65fb9cf775-kh9gd","wgBackendResponseTime":235,"wgPageParseReport":{"limitreport":{"cputime":"4.858","walltime":"5.578","ppvisitednodes":{"value":28991,"limit":1000000},"postexpandincludesize":{"value":1164037,"limit":2097152},"templateargumentsize":{"value":66724,"limit":2097152},"expansiondepth":{"value":34,"limit":100},"expensivefunctioncount":{"value":64,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":1610767,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 4581.335      1 -total"," 54.93% 2516.632      2 Template:Reflist"," 30.00% 1374.179    258 Template:Cite_web"," 13.33%  610.557    109 Template:Cite_news","  9.59%  439.142      2 Template:Infobox","  7.29%  334.140      1 Template:Infobox_company","  2.81%  128.571      1 Template:Google_LLC","  2.68%  122.618      1 Template:Infobox_network_service_provider","  2.64%  121.023      1 Template:Short_description","  2.58%  118.276      3 Template:Unbulleted_list"]},"scribunto":{"limitreport-timeusage":{"value":"3.008","limit":"10.000"},"limitreport-memusage":{"value":17667075,"limit":52428800},"limitreport-logs":"table#1 {\n}\ntable#1 {\n}\n","limitreport-profile":[["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::callParserFunction","560","17.9"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::gsub","380","12.2"],["?","300","9.6"],["dataWrapper \u003Cmw.lua:672\u003E","200","6.4"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::expandTemplate","180","5.8"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::plain","160","5.1"],["\u003Cmw.lua:694\u003E","140","4.5"],["type","120","3.8"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::find","100","3.2"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::match","100","3.2"],["[others]","880","28.2"]]},"cachereport":{"origin":"mw-web.eqiad.main-65fb9cf775-rnxjb","timestamp":"20240514001111","ttl":2592000,"transientcontent":false}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-878f94b-xzz4t","wgBackendResponseTime":194,"wgPageParseReport":{"limitreport":{"cputime":"4.072","walltime":"4.916","ppvisitednodes":{"value":28991,"limit":1000000},"postexpandincludesize":{"value":1164094,"limit":2097152},"templateargumentsize":{"value":66724,"limit":2097152},"expansiondepth":{"value":34,"limit":100},"expensivefunctioncount":{"value":64,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":1610767,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 4030.739      1 -total"," 54.82% 2209.821      2 Template:Reflist"," 28.89% 1164.290    258 Template:Cite_web"," 13.74%  553.754    109 Template:Cite_news","  9.20%  370.657      2 Template:Infobox","  7.03%  283.291      1 Template:Infobox_company","  2.71%  109.248     16 Template:Navbox","  2.69%  108.294      1 Template:Google_LLC","  2.64%  106.440      1 Template:Short_description","  2.59%  104.535      7 Template:Cite_magazine"]},"scribunto":{"limitreport-timeusage":{"value":"2.527","limit":"10.000"},"limitreport-memusage":{"value":17615019,"limit":52428800},"limitreport-logs":"table#1 {\n}\ntable#1 {\n}\n","limitreport-profile":[["?","440","17.3"],["dataWrapper \u003Cmw.lua:672\u003E","360","14.2"],["recursiveClone \u003CmwInit.lua:41\u003E","300","11.8"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::callParserFunction","240","9.4"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::gsub","160","6.3"],["\u003Cmw.lua:694\u003E","100","3.9"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::expandTemplate","80","3.1"],["type","80","3.1"],["concat","60","2.4"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::plain","60","2.4"],["[others]","660","26.0"]]},"cachereport":{"origin":"mw1418","timestamp":"20240514235755","ttl":2592000,"transientcontent":false}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Google","url":"https:\/\/en.wikipedia.org\/wiki\/Google","sameAs":"http:\/\/www.wikidata.org\/entity\/Q95","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q95","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-10-22T20:08:26Z","dateModified":"2024-05-11T13:24:06Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/32\/Googleplex_HQ_%28cropped%29.jpg","headline":"American multinational technology company, a subsidiary of Alphabet inc."}</script>
 </body>
 </html>

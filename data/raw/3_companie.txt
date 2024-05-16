@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <title>Lenovo - Wikipedia</title>
 <script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-appearance-disabled vector-feature-appearance-pinned-clientpref-0 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie.split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":
-["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"fe4a078e-3338-4571-ba07-a4112de0d620","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lenovo","wgTitle":"Lenovo","wgCurRevisionId":1223679073,"wgRevisionId":1223679073,"wgArticleId":997189,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with non-numeric formatnum arguments","Pages using the Phonos extension","CS1 maint: multiple names: authors list","CS1 maint: numeric names: authors list","Pages containing links to subscription-only content","Webarchive template wayback links","CS1 Italian-language sources (it)","Articles with short description","Short description is different from Wikidata","EngvarB from March 2024","Use dmy dates from April 2015",
+["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"a19cc356-53f8-4851-9273-a99f2ee62b20","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lenovo","wgTitle":"Lenovo","wgCurRevisionId":1223679073,"wgRevisionId":1223679073,"wgArticleId":997189,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with non-numeric formatnum arguments","Pages using the Phonos extension","CS1 maint: multiple names: authors list","CS1 maint: numeric names: authors list","Pages containing links to subscription-only content","Webarchive template wayback links","CS1 Italian-language sources (it)","Articles with short description","Short description is different from Wikidata","EngvarB from March 2024","Use dmy dates from April 2015",
 "Articles containing Chinese-language text","Articles containing potentially dated statements from 2024","All articles containing potentially dated statements","Articles containing potentially dated statements from 2009","Articles containing simplified Chinese-language text","Articles containing traditional Chinese-language text","Articles containing Japanese-language text","Articles containing potentially dated statements from July 2013","Articles containing potentially dated statements from March 2018","Commons category link from Wikidata","Articles with ISNI identifiers","Articles with VIAF identifiers","Articles with GND identifiers","Companies in the Hang Seng China Enterprises Index","Lenovo","Chinese brands","Chinese companies established in 1984","1994 initial public offerings","Companies based in Beijing","Companies listed on the Hong Kong Stock Exchange","Computer companies established in 1984","Computer companies of China","Computer hardware companies",
 "Computer systems companies","Consumer electronics brands","Display technology companies","Electronics companies established in 1984","Mobile phone companies of China","Mobile phone manufacturers","Multinational companies headquartered in China","Netbook manufacturers","Supercomputing in China","Videotelephony","Zhongguancun"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Lenovo","wgRelevantArticleId":997189,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviews":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},
 "wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":200000,"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q14799","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.phonos.styles":"ready","ext.phonos.icons":"ready","skins.vector.search.codex.styles":
@@ -1981,10 +1981,12 @@ Throughout the years, Lenovo's presence in Singapore has transitioned from its e
 </div></td></tr></tbody></table></div>
 <div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=China&amp;#124;link=China_Electronics_industry_in_China" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Electronics_industry_in_China" title="Template:Electronics industry in China"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Electronics_industry_in_China" title="Template talk:Electronics industry in China"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Electronics_industry_in_China" title="Special:EditPage/Template:Electronics industry in China"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=China&amp;#124;link=China_Electronics_industry_in_China" style="font-size:114%;margin:0 4em"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><a href="/wiki/China" title="China"><img alt="China" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="23" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span></span> <a href="/wiki/Electronics_industry_in_China" title="Electronics industry in China">Electronics industry in China</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Semiconductor</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
 <ul><li><a href="/wiki/Actions_Semiconductor" title="Actions Semiconductor">Actions Semiconductor</a></li>
+<li><a href="/wiki/ACM_Research" title="ACM Research">ACM Research</a></li>
 <li><a href="/wiki/Advanced_Micro-Fabrication_Equipment" title="Advanced Micro-Fabrication Equipment">AMEC</a></li>
 <li><a href="/wiki/Allwinner_Technology" title="Allwinner Technology">Allwinner Technology</a></li>
 <li><a href="/wiki/Cambricon_Technologies" title="Cambricon Technologies">Cambricon</a></li>
 <li><a href="/wiki/Changxin_Memory_Technologies" class="mw-redirect" title="Changxin Memory Technologies">CXMT</a></li>
+<li><a href="/wiki/Dongfang_Jingyuan_Electron_Limited" title="Dongfang Jingyuan Electron Limited">Dongfang Jingyuan Electron</a></li>
 <li><a href="/wiki/Fujian_Jinhua_Integrated_Circuit" title="Fujian Jinhua Integrated Circuit">Fujian Jinhua Integrated Circuit</a></li>
 <li><a href="/wiki/Hejian_Technology_Corporation" title="Hejian Technology Corporation">Hejian Technology Corporation</a></li>
 <li><a href="/wiki/Hygon_Information_Technology" title="Hygon Information Technology">Hygon</a></li>
@@ -2353,51 +2355,51 @@ Throughout the years, Lenovo's presence in Singapore has transitioned from its e
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw‐web.eqiad.main‐746d7bf6b6‐b2wtb
-Cached time: 20240514152011
+Parsed by mw‐web.eqiad.main‐55cb7c4f75‐ntlv8
+Cached time: 20240516073010
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [vary‐revision‐sha1, show‐toc]
-CPU time usage: 2.839 seconds
-Real time usage: 3.354 seconds
+CPU time usage: 2.654 seconds
+Real time usage: 3.033 seconds
 Preprocessor visited node count: 15426/1000000
-Post‐expand include size: 588298/2097152 bytes
+Post‐expand include size: 588553/2097152 bytes
 Template argument size: 9210/2097152 bytes
 Highest expansion depth: 23/100
 Expensive parser function count: 29/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 958155/5000000 bytes
-Lua time usage: 1.774/10.000 seconds
-Lua memory usage: 20967412/52428800 bytes
+Lua time usage: 1.650/10.000 seconds
+Lua memory usage: 20993299/52428800 bytes
 Lua Profile:
-    ?                                                                360 ms       19.6%
-    dataWrapper <mw.lua:672>                                         300 ms       16.3%
-    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::callParserFunction      200 ms       10.9%
-    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::gsub      140 ms        7.6%
-    recursiveClone <mwInit.lua:41>                                   120 ms        6.5%
-    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::getExpandedArgument      100 ms        5.4%
-    <mw.lua:694>                                                     100 ms        5.4%
-    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::match      100 ms        5.4%
-    type                                                              60 ms        3.3%
-    gsub                                                              60 ms        3.3%
-    [others]                                                         300 ms       16.3%
+    ?                                                                300 ms       17.2%
+    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::callParserFunction      220 ms       12.6%
+    recursiveClone <mwInit.lua:41>                                   200 ms       11.5%
+    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::gsub      160 ms        9.2%
+    dataWrapper <mw.lua:672>                                         120 ms        6.9%
+    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::plain       80 ms        4.6%
+    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::getExpandedArgument       80 ms        4.6%
+    <mw.lua:694>                                                      60 ms        3.4%
+    date                                                              60 ms        3.4%
+    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::anchorEncode       60 ms        3.4%
+    [others]                                                         400 ms       23.0%
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 2904.530      1 -total
- 54.59% 1585.532      1 Template:Reflist
- 30.23%  877.945    139 Template:Cite_web
- 14.85%  431.453     80 Template:Cite_news
- 14.62%  424.744      1 Template:Infobox_company
- 14.10%  409.445      1 Template:Infobox
-  5.22%  151.517      1 Template:Short_description
-  4.98%  144.579      6 Template:Lang
-  3.09%   89.727      1 Template:Authority_control
-  2.82%   81.975     16 Template:Main_other
+100.00% 2627.797      1 -total
+ 54.03% 1419.887      1 Template:Reflist
+ 28.87%  758.687    139 Template:Cite_web
+ 14.89%  391.371     80 Template:Cite_news
+ 14.57%  382.908      1 Template:Infobox_company
+ 14.07%  369.814      1 Template:Infobox
+  5.22%  137.137      6 Template:Lang
+  4.22%  110.825      1 Template:Short_description
+  3.11%   81.597      1 Template:Lenovo
+  2.89%   76.046      2 Template:Pagetype
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:997189-0!canonical and timestamp 20240514152011 and revision id 1223679073. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key enwiki:pcache:idhash:997189-0!canonical and timestamp 20240516073010 and revision id 1223679073. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
 <div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lenovo&amp;oldid=1223679073">https://en.wikipedia.org/w/index.php?title=Lenovo&amp;oldid=1223679073</a>"</div></div>
@@ -2447,7 +2449,7 @@ additional terms may apply. By using this site, you agree to the <a href="//foun
 </li>
 	</ul>
 </div>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-746d7bf6b6-b2wtb","wgBackendResponseTime":3613,"wgPageParseReport":{"limitreport":{"cputime":"2.839","walltime":"3.354","ppvisitednodes":{"value":15426,"limit":1000000},"postexpandincludesize":{"value":588298,"limit":2097152},"templateargumentsize":{"value":9210,"limit":2097152},"expansiondepth":{"value":23,"limit":100},"expensivefunctioncount":{"value":29,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":958155,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 2904.530      1 -total"," 54.59% 1585.532      1 Template:Reflist"," 30.23%  877.945    139 Template:Cite_web"," 14.85%  431.453     80 Template:Cite_news"," 14.62%  424.744      1 Template:Infobox_company"," 14.10%  409.445      1 Template:Infobox","  5.22%  151.517      1 Template:Short_description","  4.98%  144.579      6 Template:Lang","  3.09%   89.727      1 Template:Authority_control","  2.82%   81.975     16 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"1.774","limit":"10.000"},"limitreport-memusage":{"value":20967412,"limit":52428800},"limitreport-profile":[["?","360","19.6"],["dataWrapper \u003Cmw.lua:672\u003E","300","16.3"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::callParserFunction","200","10.9"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::gsub","140","7.6"],["recursiveClone \u003CmwInit.lua:41\u003E","120","6.5"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::getExpandedArgument","100","5.4"],["\u003Cmw.lua:694\u003E","100","5.4"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::match","100","5.4"],["type","60","3.3"],["gsub","60","3.3"],["[others]","300","16.3"]]},"cachereport":{"origin":"mw-web.eqiad.main-746d7bf6b6-b2wtb","timestamp":"20240514152011","ttl":2592000,"transientcontent":false}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-868f6d97b4-n5zwm","wgBackendResponseTime":231,"wgPageParseReport":{"limitreport":{"cputime":"2.654","walltime":"3.033","ppvisitednodes":{"value":15426,"limit":1000000},"postexpandincludesize":{"value":588553,"limit":2097152},"templateargumentsize":{"value":9210,"limit":2097152},"expansiondepth":{"value":23,"limit":100},"expensivefunctioncount":{"value":29,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":958155,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 2627.797      1 -total"," 54.03% 1419.887      1 Template:Reflist"," 28.87%  758.687    139 Template:Cite_web"," 14.89%  391.371     80 Template:Cite_news"," 14.57%  382.908      1 Template:Infobox_company"," 14.07%  369.814      1 Template:Infobox","  5.22%  137.137      6 Template:Lang","  4.22%  110.825      1 Template:Short_description","  3.11%   81.597      1 Template:Lenovo","  2.89%   76.046      2 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"1.650","limit":"10.000"},"limitreport-memusage":{"value":20993299,"limit":52428800},"limitreport-profile":[["?","300","17.2"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::callParserFunction","220","12.6"],["recursiveClone \u003CmwInit.lua:41\u003E","200","11.5"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::gsub","160","9.2"],["dataWrapper \u003Cmw.lua:672\u003E","120","6.9"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::plain","80","4.6"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::getExpandedArgument","80","4.6"],["\u003Cmw.lua:694\u003E","60","3.4"],["date","60","3.4"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::anchorEncode","60","3.4"],["[others]","400","23.0"]]},"cachereport":{"origin":"mw-web.eqiad.main-55cb7c4f75-ntlv8","timestamp":"20240516073010","ttl":2592000,"transientcontent":false}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Lenovo","url":"https:\/\/en.wikipedia.org\/wiki\/Lenovo","sameAs":"http:\/\/www.wikidata.org\/entity\/Q14799","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q14799","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-09-18T23:41:15Z","dateModified":"2024-05-13T17:20:47Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2a\/Lenovo_western_headquarters_%2820170707113944%29.jpg","headline":"Chinese multinational technology company established in 1984"}</script>
 </body>
 </html>

@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <title>Acer Inc. - Wikipedia</title>
 <script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-appearance-disabled vector-feature-appearance-pinned-clientpref-0 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie.split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":
-["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"81d86922-2a51-481b-9db6-7a8d265e6ed8","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Acer_Inc.","wgTitle":"Acer Inc.","wgCurRevisionId":1223814548,"wgRevisionId":1223814548,"wgArticleId":397169,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Dutch-language sources (nl)","Articles with short description","Short description is different from Wikidata","Use dmy dates from October 2020","Articles containing Chinese-language text","Articles containing potentially dated statements from 2024","All articles containing potentially dated statements","Articles containing traditional Chinese-language text","Articles containing potentially dated statements from 2006",
+["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"72dd3ee2-7eda-4b33-8d4e-778d3afeb256","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Acer_Inc.","wgTitle":"Acer Inc.","wgCurRevisionId":1223814548,"wgRevisionId":1223814548,"wgArticleId":397169,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Dutch-language sources (nl)","Articles with short description","Short description is different from Wikidata","Use dmy dates from October 2020","Articles containing Chinese-language text","Articles containing potentially dated statements from 2024","All articles containing potentially dated statements","Articles containing traditional Chinese-language text","Articles containing potentially dated statements from 2006",
 "Commons category link is on Wikidata","Official website different in Wikidata and Wikipedia","Articles with ISNI identifiers","Articles with VIAF identifiers","Articles with GND identifiers","Articles with J9U identifiers","Articles with LCCN identifiers","Acer Inc.","1976 establishments in Taiwan","1996 initial public offerings","Companies based in New Taipei","Computer companies of Taiwan","Computer companies established in 1976","Computer hardware companies","Computer systems companies","Companies listed on the Taiwan Stock Exchange","Companies in the Taiwan Capitalization Weighted Stock Index","Consumer electronics brands","Display technology companies","Electronics companies of Taiwan","Formula One engine manufacturers","Mobile phone manufacturers","Multinational companies headquartered in Taiwan","Netbook manufacturers","Portable audio player manufacturers","Taiwanese brands"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
 "wgRelevantPageName":"Acer_Inc.","wgRelevantArticleId":397169,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviews":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q481778","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList",
 "mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediamessages.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP",
@@ -1279,13 +1279,13 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw‐api‐ext.eqiad.main‐9bdfbbb9‐5rk8x
-Cached time: 20240514145014
+Parsed by mw‐web.codfw.main‐5b8f448979‐jbgvg
+Cached time: 20240514145038
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [vary‐revision‐sha1, show‐toc]
-CPU time usage: 1.168 seconds
-Real time usage: 1.443 seconds
+CPU time usage: 0.805 seconds
+Real time usage: 1.236 seconds
 Preprocessor visited node count: 5573/1000000
 Post‐expand include size: 205221/2097152 bytes
 Template argument size: 6601/2097152 bytes
@@ -1293,25 +1293,25 @@ Highest expansion depth: 20/100
 Expensive parser function count: 15/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 217403/5000000 bytes
-Lua time usage: 0.735/10.000 seconds
-Lua memory usage: 20179893/52428800 bytes
+Lua time usage: 0.495/10.000 seconds
+Lua memory usage: 20179853/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1236.088      1 -total
- 28.90%  357.257      1 Template:Reflist
- 26.68%  329.756      1 Template:Infobox_company
- 25.44%  314.436      1 Template:Infobox
- 22.44%  277.379     35 Template:Cite_web
- 10.73%  132.685      1 Template:Lang
-  9.18%  113.499     10 Template:Navbox
-  6.92%   85.594      1 Template:Short_description
-  5.41%   66.875      1 Template:Acer_Inc.
-  4.29%   52.999      1 Template:Commons_category
+100.00%  965.512      1 -total
+ 32.44%  313.227      1 Template:Infobox_company
+ 28.56%  275.704      1 Template:Infobox
+ 25.76%  248.757      1 Template:Reflist
+ 19.57%  188.995     35 Template:Cite_web
+ 10.34%   99.860      1 Template:Lang
+  8.44%   81.517     10 Template:Navbox
+  6.45%   62.311      1 Template:Short_description
+  5.63%   54.337      1 Template:Acer_Inc.
+  5.43%   52.405      1 Template:Commons_category
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:397169-0!canonical and timestamp 20240514145015 and revision id 1223814548. Rendering was triggered because: edit-page
+<!-- Saved in parser cache with key enwiki:pcache:idhash:397169-0!canonical and timestamp 20240514145038 and revision id 1223814548. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
 <div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Acer_Inc.&amp;oldid=1223814548">https://en.wikipedia.org/w/index.php?title=Acer_Inc.&amp;oldid=1223814548</a>"</div></div>
@@ -1361,7 +1361,7 @@ additional terms may apply. By using this site, you agree to the <a href="//foun
 </li>
 	</ul>
 </div>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1417","wgBackendResponseTime":125,"wgPageParseReport":{"limitreport":{"cputime":"1.168","walltime":"1.443","ppvisitednodes":{"value":5573,"limit":1000000},"postexpandincludesize":{"value":205221,"limit":2097152},"templateargumentsize":{"value":6601,"limit":2097152},"expansiondepth":{"value":20,"limit":100},"expensivefunctioncount":{"value":15,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":217403,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1236.088      1 -total"," 28.90%  357.257      1 Template:Reflist"," 26.68%  329.756      1 Template:Infobox_company"," 25.44%  314.436      1 Template:Infobox"," 22.44%  277.379     35 Template:Cite_web"," 10.73%  132.685      1 Template:Lang","  9.18%  113.499     10 Template:Navbox","  6.92%   85.594      1 Template:Short_description","  5.41%   66.875      1 Template:Acer_Inc.","  4.29%   52.999      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.735","limit":"10.000"},"limitreport-memusage":{"value":20179893,"limit":52428800}},"cachereport":{"origin":"mw-api-ext.eqiad.main-9bdfbbb9-5rk8x","timestamp":"20240514145014","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Acer Inc.","url":"https:\/\/en.wikipedia.org\/wiki\/Acer_Inc.","sameAs":"http:\/\/www.wikidata.org\/entity\/Q481778","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q481778","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-12-11T07:35:10Z","dateModified":"2024-05-14T14:50:12Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/47\/Acer_Building_in_Oriental_Science_Park_right-front.jpg","headline":"Taiwanese multinational hardware and electronics corporation"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-878f94b-mjmhz","wgBackendResponseTime":149,"wgPageParseReport":{"limitreport":{"cputime":"0.805","walltime":"1.236","ppvisitednodes":{"value":5573,"limit":1000000},"postexpandincludesize":{"value":205221,"limit":2097152},"templateargumentsize":{"value":6601,"limit":2097152},"expansiondepth":{"value":20,"limit":100},"expensivefunctioncount":{"value":15,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":217403,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  965.512      1 -total"," 32.44%  313.227      1 Template:Infobox_company"," 28.56%  275.704      1 Template:Infobox"," 25.76%  248.757      1 Template:Reflist"," 19.57%  188.995     35 Template:Cite_web"," 10.34%   99.860      1 Template:Lang","  8.44%   81.517     10 Template:Navbox","  6.45%   62.311      1 Template:Short_description","  5.63%   54.337      1 Template:Acer_Inc.","  5.43%   52.405      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.495","limit":"10.000"},"limitreport-memusage":{"value":20179853,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-5b8f448979-jbgvg","timestamp":"20240514145038","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Acer Inc.","url":"https:\/\/en.wikipedia.org\/wiki\/Acer_Inc.","sameAs":"http:\/\/www.wikidata.org\/entity\/Q481778","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q481778","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-12-11T07:35:10Z","dateModified":"2024-05-14T14:50:15Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/47\/Acer_Building_in_Oriental_Science_Park_right-front.jpg","headline":"Taiwanese multinational hardware and electronics corporation"}</script>
 </body>
 </html>
