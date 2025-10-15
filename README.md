@@ -1,4 +1,4 @@
-# OTC_zhongjie
+# TokenLab-NER
 - La tâche à réaliser : token classification
 - Le corpus cible : conll2003
 - Lien du corpus : https://huggingface.co/datasets/conll2003?row=0
